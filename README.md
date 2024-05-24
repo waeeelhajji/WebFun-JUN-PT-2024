@@ -11,4 +11,4 @@
 
 <br />
 
-<img src="[https://i.pinimg.com/736x/c9/48/a3/c948a321b2aab805f7ff884a0ae3e6b7.jpg](https://petra-at.github.io/ZTM/images/html-css-js.jpg)" alt="WebFun logo" width="360">
+<img src="https://petra-at.github.io/ZTM/images/html-css-js.jpg" alt="WebFun logo" width="360">
