@@ -11,4 +11,4 @@
 
 <br />
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_1owBnaIzomnhOd9_fUYoNJKjV62rhgxZ6FIq0bjEg&s" alt="WebFun logo" width="180">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_1owBnaIzomnhOd9_fUYoNJKjV62rhgxZ6FIq0bjEg&s" alt="WebFun logo" width="220">
