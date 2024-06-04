@@ -1,0 +1,88 @@
+* {
+    outline: 2px dotted red;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+h1 {
+    /*Attribute : "value" */
+    color: lightcoral;
+    font-size: 70px;
+}
+span {
+    color: blue;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+/* Selecting with Id  */
+
+#AnotherChangingOfTheColor {
+    background-color: chocolate;
+}
+
+
+
+/* Selecting With Class */
+
+.changeColor  {
+    background-color: rgb(229, 140, 32);
+    width: 20%;
+    /* margin-left: 40px;
+    margin-right: 50px;
+    margin-top: 85px;
+    margin-bottom: 90px; */
+    /*      top--right-bottom-left */
+    /* margin : 85px 50px 90px 40px; */
+    /*      -bottom-top-left--right*/
+    padding : 70px 90px
+    /* height: 100px; */
+}
+
+div {
+    background-color:blueviolet;
+}
+
+.selectwithAd :nth-child(2) {
+
+    color: burlywood;
+}
+.selectwithAd {
+    width: 400px;
+    height: 100px;
+    overflow: scroll;
+
+}
+
+form input[type="number"]{
+    background-color: black;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    border-radius: 30px;
+    box-shadow: 15px 20px black;
+}
+
+h1,h2 {
+    display: inline;
+}
+.boxes {
+    display: inline-block;
+}
