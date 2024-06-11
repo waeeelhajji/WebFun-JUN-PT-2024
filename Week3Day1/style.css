@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.wrapper {
+    /* background-color: darkslategray; */
+    margin: 0 auto;
+    width: 500px;
+    min-height: 300px;
+    color: aqua;
+}
+
+img{
+    width: 250px;
+}
+.light-mode {
+    background-color: white;
+    color: black;
+}
+
+.dark-mode {
+    background-color: darkslategray;
+    color: white;
+}
+

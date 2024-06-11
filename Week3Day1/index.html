@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>DOM</title>
+</head>
+<body>
+    <div class="wrapper light-mode">
+
+        <h1 id="title">DOM</h1>
+        <div class="nav">
+            <img src="images/MainAfter.webp" alt="logo">
+            <h2>Hello World</h1>
+        </div>
+
+        <button onclick="changeToDark()"> Dark Mode </button>
+        <button onclick="changeToLigh()"> Light Mode </button>
+
+        <!-- ------------------------------------------------ -->
+
+
+        <div class="colorDiv">
+            <p>My Favorite Color is :</p>
+        </div>
+
+        <input class="colorInput" type="text" >
+        <button onclick="setColor()">Submit</button>
+        <!-- ------------------------------------------------ -->
+
+        <label>I would like to eat </label>
+<select onchange="chooseLunch(this)">
+    <option>-----</option>
+    <option>Tacos</option>
+    <option>Pasta</option>
+    <option>Sushi</option>
+</select>
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
